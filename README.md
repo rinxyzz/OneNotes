@@ -12,21 +12,21 @@
     </p>
 
 # OneNotes
-Sticky Notes, Notepad, Notebook, Notes, Memo Pad.
+OneNotes is a digital note-taking app designed and built for Android. OneNotes aims to enrich lives and unleash new ideas of students, teachers, script maker, and more professionals. 
+OneNotes is the top choice for your academic notes, professional memos, personal diaries or even travel journals.
 
-is a simple note-taking application for taking notes.
-<p align="left">
-    <img src="res/notes.png" />
-</p>
+# Key Features: 
+- Note lock (Biometric data - e.g. fingerprint)
+- Save, browse, search and share notes on your smartphone and tablet
+- Create backup file, restore data from backup file (.nb)
+- Export your notes (Text file and More)
+- Unlimited number of notes, long notes
 
-# Feature
-✅ Simple
-
-✅ Elegant UI
-
-✅ Complete Setup
-
-✅ Using Your Phone's Fingerprint And Pin Security
+Version 1.0.2 
+# Developer:
+- 40mP (Yume Hasegawa)
+- ! Eazy (Kyousuke)
+- ! Raley
 
 ## Try Demo Or Download
-Download [Here](https://github.com/YumeKawaiii/OneNotes/blob/main/res/OneNotes_1.1.apk)
+Download [Here For Android](https://github.com/YumeKawaiii/OneNotes/blob/main/res/OneNotes_1.1.apk)
