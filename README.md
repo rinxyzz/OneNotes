@@ -1,7 +1,4 @@
 <p align="center">
-<a href="https://github.com/YumeKawaiii/OneNotes"><img title="Followers" src="https://img.shields.io/github/followers/YumeKawaiii?color=red&style=flat-square"></a>
-<a href="https://github.com/YumeKawaiii/OneNotes/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Yumekawaiii/OneNotes?color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeone-ofc/Alphab0t/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeone-ofc/Alphab0t?color=red&style=flat-square"></a>
 <a href="https://github.com/zeeone-ofc/Alphab0t/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeone-ofc/Alphab0t?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/zeeone-ofc/Alphab0t"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
 <a href="https://github.com/Yumekawaiii/OneNotes/"><img title="Size Repo" src="https://img.shields.io/github/repo-size/YumeKawaiii/OneNotes?style=flat-square&color=green"></a>
