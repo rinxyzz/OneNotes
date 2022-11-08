@@ -27,3 +27,8 @@ Version 1.0.2
 
 ## Try Demo Or Download
 Download [Here For Android](https://github.com/aikoxyzz/OneNotes/blob/main/res/OneNotes_1.1.apk)
+
+## Contributor
+<a href="https://github.com/angular/angular-ja/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=angular/angular-ja" />
+</a>
