@@ -21,7 +21,7 @@ OneNotes is the top choice for your academic notes, professional memos, personal
 
 Version 1.0.2 
 # Developer:
-- 40mP (Yume Hasegawa)
+- 影山 愛子 (Aiko)
 - ! Eazy (Kyousuke)
 - ! Raley
 
