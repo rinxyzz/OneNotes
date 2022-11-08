@@ -18,6 +18,7 @@ OneNotes is the top choice for your academic notes, professional memos, personal
 - Create backup file, restore data from backup file (.nb)
 - Export your notes (Text file and More)
 - Unlimited number of notes, long notes
+- UI Material 
 
 Version 1.0.2 
 # Developer:
