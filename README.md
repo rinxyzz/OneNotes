@@ -22,6 +22,7 @@ OneNotes is the top choice for your academic notes, professional memos, personal
 Version 1.0.2 
 # Developer:
 - 影山 愛子 (Aiko)
+- Rin.
 - ! Eazy (Kyousuke)
 - ! Raley
 
