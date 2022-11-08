@@ -26,4 +26,4 @@ Version 1.0.2
 - ! Raley
 
 ## Try Demo Or Download
-Download [Here For Android](https://github.com/YumeKawaiii/OneNotes/blob/main/res/OneNotes_1.1.apk)
+Download [Here For Android](https://github.com/aikoxyzz/OneNotes/blob/main/res/OneNotes_1.1.apk)
